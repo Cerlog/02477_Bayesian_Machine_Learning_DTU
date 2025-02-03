@@ -63,9 +63,6 @@ def confidence_intervals(MLE, N1):
     return lower, upper
 
 
-import jax.numpy as jnp
-import matplotlib.pyplot as plt
-from scipy.stats import beta, binom
 
 def plot_bayesian_inference(y, N, a_0=1, b_0=1):
     """
