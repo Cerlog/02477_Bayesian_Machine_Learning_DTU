@@ -1,0 +1,14 @@
+{
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false,
+        "python": true
+    },
+    "python.REPL.enableREPLSmartSend": false,
+      "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#00ff00",
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.mouseWheelZoom": true
+}
